@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Artikel Poliwangi</string>
+
+    <string name="title">Judul Artikel</string>
+    <string name="description">Deskripsi</string>
+    <string name="user">Akun User</string>
+    <string name="dummy_photos">3 Foto</string>
+    <string name="author">Penulis</string>
+    <string name="my_name">Rio Adjie Wiguna</string>
+    <string name="back">Kembali</string>
+    <string name="about">Tentang Aplikasi: Aplikasi ini merupakan aplikasi sederhana yang saya buat untuk menampilkan Artikel Tentang Politeknik Negeri Banyuwangi. Politeknik Negeri Banyuwangi atau Poliwangi merupakan salah satu Universitas yang terletak di Kabupaten Banyuwangi Provinsi Jawa Timur. Kami dari Poliwangi sangat bangga menjadi salah satu bagian dari Bangkit Academy Batch 2. Semangat Belajar dan Merdeka Belajar untuk seluruh Mahasiswa di Indonesia. Salam Rio Adjie</string>
+    <string-array name="data_title">
+        <item>Terobosan Mendikbudristek: Episode Terbaru Merdeka Belajar Mengupas Inovasi Standar Nasional dan Revolusi Akreditasi Pendidikan Tinggi</item>
+        <item>Revolusi Teknologi Aspal CPHMA Mewarnai Perbaikan Infrastruktur Jalan di Desa Rejoagung</item>
+        <item>Launching Buku 15 Tahun Poliwangi</item>
+        <item>Bupati Banyuwangi Hadiri Gelaran Wisuda ke XVII Politeknik Negeri Banyuwangi tahun Akademik 2022/2023</item>
+        <item>Jaran Kencak Paju Gandrung : Hampir Punah dan Tak Diminati?</item>
+        <item>Jurusan Teknik Sipil Poliwangi Laksanakan Kuliah Lapang dan Kuliah Tamu Sebagai Bekal Mahasiswa Kerja Praktik</item>
+        <item>Kunjungan dan Monitoring Kampus Mengajar Angkatan 5</item>
+        <item>Poliwangi menjalin kerjasama dengan Poliban dan Laguna Hotel Malaysia</item>
+        <item>Poliwangi meraih Perguruan Tinggi Vokasi Terbaik Pengelolaan KIP Kuliah di Indonesia</item>
+        <item>Mahasiswa Agribisnis Berperan Aktif dalam Konservasi Lingkungan, Menanam Terumbu Karang di Pantai Bangsring Banyuwangi</item>
+        <item>TELAH DIBUKA!! PROGRAM STUDI DESTINASI PARAWISATA DI POLIWANGI!!</item>
+        <item>Poliwangi Melakukan Pelepasan Mahasiswa Magang Kerja Industri Laguna Redang Island Resort</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi (Mendikbudristek), Nadiem Anwar Makarim, hari ini mengumumkan peluncuran Merdeka Belajar Episode Ke-26 yang berjudul “Inovasi Standar Nasional dan Akreditasi Pendidikan Tinggi. Dalam acara tersebut disampaikan bahwa dari total 26 episode program Merdeka Belajar yang diperkenalkan sejak tahun 2019 hingga saat ini 10 episode telah difokuskan pada transformasi pendidikan tinggi.Mendikbudristek menjelaskan, “Pendidikan tinggi memiliki peranan krusial dalam mendorong pertumbuhan berkelanjutan, membentuk sumber daya manusia unggul, dan menjadi pilar utama dalam inovasi. Sebagai jembatan antara dunia akademik, dunia kerja, dan masyarakat, lulusan perguruan tinggi diharapkan dapat memberikan kontribusi yang berarti. Oleh karena itu, kami menekankan pentingnya transformasi di tingkat pendidikan tinggi.”</item>
+        <item>Inovasi dalam teknologi perkerasan jalan semakin mengukir prestasi baru melalui pengaplikasian Aspal CPHMA (Cold Paving Hot Mix Asbuton). Aspal revolusioner ini telah berhasil diimplementasikan oleh tim dari Jurusan Teknik Sipil Politeknik Negeri Banyuwangi, yang terdiri dari Rahayu Pradita, S.ST., M.T., Qurrotus Shofiyah, S.T., M.T., dan Mohamad Galuh Khomari, S.Pd., M.T., serta konsultan pengawas jalan Dwi Ananta, S.T. dalam program Pengabdian Kepada Masyarakat (PKM). Teknologi ini dipraktikkan pada jalan Desa Rejoagung, kecamatan Srono, kabupaten Banyuwangi.</item>
+        <item>Politeknik Negeri Banyuwangi melakukan launching Buku “15 Tahun Politeknik Negeri Banyuwangi Berkarya Untuk Negeri”. Salah satu tokoh dan juga mantan bupati Banyuwangi yang merupakan pelaku sejarah yang ikut hadir dalam perjalanan perkembangan kampus Politeknik Negeri Banyuwangi. Acara peluncuran buku ini digelar di Resto Hotel Jinggo Politeknik Negeri Banyuwangi, Kamis 22 Juni 2023.</item>
+        <item>Senin, 19 Juni 2023 dilaksanakan Sidang Umum Terbuka Senat Politeknik Negeri Banyuwangi, Wisuda XVII Ahli Madya dan Sarjana Terapan tahun Akademik 2022/2023 yang bertempat di hotel El royale Banyuwangi. Wisuda ini mengusung tema “Lulusan Poliwangi Sebagai Insan Unggul, Berkarakter, Cerdas, dan Terampil.”Kegiatan ini dihadiri langsung oleh Bupati Banyuwangi Ipuk Fiestiandani, Direktur Politeknik Negeri Banyuwangi M. Shofiul Amin, S.T.,M.T., serta beberapa Pejabat tinggi, Kepala Jurusan dan Jajaran Kepala Program Studi dari masing-masing Program Studi, Dan dengan diikuti oleh 291 peserta Wisudawan Wisudawati Politeknik Negeri Banyuwangi.</item>
+        <item>“Sudah ndak perlu lagi memasang harapan terbaik buat diri saya sendiri. Yang terpenting sekarang ya untuk anak cucu. Anak-anak muda yang harus mau belajar dan mengerti. Menjadi seorang pengemban amanah, agar budaya tetap lestari.” Ujar Rugito, sesepuh pelaku seni Jaran Kencak Banyuwangi.Rugito, pemilik kesenian Jaran Kencak Kelurahan Boyolangu, dikenal masyarakat dengan sebutan Mbahe Jaran Kencak. Karena beliau merupakan satu-satunya orang yang masih konsisten melestarikan budaya Jaran Kencak sejak memiliki kuda jenis Sandel pada tahun 1980 hingga kini.</item>
+        <item>Jurusan Teknik Sipil Poliwangi menginisiasi pelaksanaan penandatangan MOU bersama mitra industri dari kontraktor dan konsultan Proyek Gedung Kuliah Terpadu (GKT) Poliwangi sedang berjalan. Tidak mau ketinggalan momentum, Jurusan Teknik Sipil memanfaatkan momen tersebut dengan menjalin kerjasama. Ditandatangani oleh Direktur Politeknik Negeri Banyuwangi M.Shofiul Amin, S T., M.T. dengan mitra industri yang diantaranya PT. Kembar jaya abadi, PT. Pandu jaya karya, PT. Cipta multi kreasi,PT. Pradnya Paramita, dan CV. Ganesha teknika.</item>
+        <item>Kegiatan monitoring dan evaluasi yang dilaksanakan oleh program kampus mengajar terdiri dari perwakilan Team Kampus Mengajar Ibu Fany Camellia Putri, S.Pd, Ibu Diyan Purnama Sari, S.Pd, Bapak Fauzan Mahfuzh, S.A.P., Ibu Herlin Natalia Dewi, S.Hut., M.Sc. dan perwakilan dari Direktorat Sekolah Dasar Ibu Nina Hartinjung, S.Pd., M.Ak dan perwakilan dari Direktorat Pembelajaran dan Kemahasiswaan Bapak Nandan dan Bapak Fidensius Nivo P.</item>
+        <item>Politeknik Negeri Banyuwangi menjalin kerjasama dengan Panji Integrasi Cerdas Sdn Bhd, Malaysia dan Politeknik Negeri Balikpapan. Agenda kolaborasi kerjasama yang dilakukan adalah untuk melaksanakan kegiatan Magang Kerja Industri di Laguna Redang Island Resort, Malaysia. Kegiatan ini dihadiri oleh DIrektur Poliiteknik Negeri Banyuwangi, M. Shofi’ul Amin, S.T.,MT beserta jajaran pimpinan, Candra Irawan, ST.MT selaku Wakil Direktur 3 Politeknik Negeri Balikpapan, Hennry Winnarko, M.Pd selaku Ketua Jurusan Pariwisata Politeknik Negeri Balikpapan, dan Mohd Zainal Abidin bin Mohd Tulus selaku Direktur Eksekutif Panji Integrasi Cerdas Sdn Bhd, Malaysia.</item>
+        <item>Politeknik Negeri Banyuwangi berhasil meraih penghargaan sebagai Pendidikan Tinggi Vokasi terbaik di Indonesia dalam pengelolaan beasiswa Kartu Indonesia Pintar (KIP) Kuliah dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. Penghargaan tersebut diserahkan oleh Inspektur Jendral Kementerian Pendidikan dan Kebudayaan Dr. Chatarina Muliana, S.H, S.E., M.H kepada Direktur Poliwangi M. Shofi’ul Amin, S.T., M.T., pada ajang Anugerah Merdeka Belajar tahun 2023 di Gedung Trimurti, Prambanan, Yogyakarta.</item>
+        <item>Mahasiswa program studi Agribisnis dari Politeknik Negeri banyuwangi menunjukkan kepedulian mereka terhadap lingkungan dengan melaksanakan kegiatan praktikum lapang yang inovatif. Dalam upaya untuk mendukung konservasi lingkungan, para mahasiswa ini melakukan aksi nyata dengan menanam terumbu karang di pantai Bangsring, Banyuwangi. Pantai Bangsring terkenal dengan keindahan alam bawah lautnya yang kaya akan keanekaragaman hayati. Namun, perubahan iklim dan aktivitas manusia yang tidak bertanggung jawab telah memberikan dampak negatif terhadap terumbu karang yang ada di daerah tersebut. Oleh karena itu, para mahasiswa Agribisnis berinisiatif untuk melakukan tindakan konkret guna memulihkan ekosistem terumbu karang yang rusak.</item>
+        <item>Telah dibuka Prodi Baru di Politeknik Negeri Banyuwangi yaitu: Sarjana Terapan – Program Studi Destinasi Pariwisata. Dan mulai menerima mahasiswa baru melalui Jalur Seleksi Mandiri Poliwangi. Yang akan dibuka mulai tanggal 2 Mei 2023. Bagi anda yang berminat jangan sampai ketinggalan ya…!!!</item>
+        <item>Politeknik Negeri Banyuwangi melaksanakan kegiatan Studi Independen Mandiri dan Magang Kerja Industri ke Laguna Redang Island Resort Malaysia. Terdapat total 20 mahasiswa Poliwangi yang akan mengikuti kegiatan tersebut di Malaysia, dengan rincian 15 mahasiswa dari Manajemen Bisnis Pariwisata, 3 mahasiswa dari Teknologi Pengolahan Hasil Ternak, dan 2 mahasiswa dari Agribisnis. Pelepasan mahasiswa dilakukan oleh Direktur Politeknik Negeri Banyuwangi, Bapak M. Shofi’ul Amin, S.T.,M.T. didampingi dengan Wakil Direktur III Bidang Kemahasiswaan dan Alumni, Bapak Kurniawan Muhammad Nur, S.ST.,M.M. Persiapan kegiatan Studi Independen dan Magang Kerja Industri dilakukan sejak bulan Februari 2023, dengan memberikan pembekalan perkuliahan dan persiapan keberangkatan ke Malaysia</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/terobosan_kemendikbud</item>
+        <item>@drawable/pkm_poliwangi</item>
+        <item>@drawable/launching</item>
+        <item>@drawable/wisuda</item>
+        <item>@drawable/jaran_kencak</item>
+        <item>@drawable/kerjasama</item>
+        <item>@drawable/kampus_mengajar</item>
+        <item>@drawable/ttd_mou</item>
+        <item>@drawable/pengelolaan_kip</item>
+        <item>@drawable/mahasiswa</item>
+        <item>@drawable/despar</item>
+        <item>@drawable/mahasiswa_magang</item>
+    </integer-array>
+</resources>
